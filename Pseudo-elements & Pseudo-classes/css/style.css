@@ -39,7 +39,7 @@ a {
  }
  
  h1::after {
-   content: " channel";
+   content: " afret";
    color: red;
  }
  
